@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
