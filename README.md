@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mohitj-18/LeetCode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mohitj-18/LeetCode_problems/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohitj-18/LeetCode_problems/tree/master/0035-search-insert-position) |
 | [3731-find-missing-elements](https://github.com/mohitj-18/LeetCode_problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohitj-18/LeetCode_problems/tree/master/0035-search-insert-position) |
 | [0441-arranging-coins](https://github.com/mohitj-18/LeetCode_problems/tree/master/0441-arranging-coins) |
 ## Two Pointers
