@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mohitj-18/LeetCode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mohitj-18/LeetCode_problems/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/mohitj-18/LeetCode_problems/tree/master/0061-rotate-list) |
+| [0202-happy-number](https://github.com/mohitj-18/LeetCode_problems/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohitj-18/LeetCode_problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/mohitj-18/LeetCode_problems/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/mohitj-18/LeetCode_problems/tree/master/0441-arranging-coins) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/mohitj-18/LeetCode_problems/tree/master/0202-happy-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/mohitj-18/LeetCode_problems/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohitj-18/LeetCode_problems/tree/master/0002-add-two-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mohitj-18/LeetCode_problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
