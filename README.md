@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/mohitj-18/LeetCode_problems/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitj-18/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mohitj-18/LeetCode_problems/tree/master/0202-happy-number) |
+| [0763-partition-labels](https://github.com/mohitj-18/LeetCode_problems/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/mohitj-18/LeetCode_problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/mohitj-18/LeetCode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
+| [0763-partition-labels](https://github.com/mohitj-18/LeetCode_problems/tree/master/0763-partition-labels) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohitj-18/LeetCode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/mohitj-18/LeetCode_problems/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/mohitj-18/LeetCode_problems/tree/master/0763-partition-labels) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mohitj-18/LeetCode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/mohitj-18/LeetCode_problems/tree/master/0202-happy-number) |
+| [0763-partition-labels](https://github.com/mohitj-18/LeetCode_problems/tree/master/0763-partition-labels) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohitj-18/LeetCode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/mohitj-18/LeetCode_problems/tree/master/3731-find-missing-elements) |
