@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/mohitj-18/LeetCode_problems/tree/master/1492-the-kth-factor-of-n) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mohitj-18/LeetCode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
