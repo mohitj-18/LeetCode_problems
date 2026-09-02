@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/mohitj-18/LeetCode_problems/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitj-18/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohitj-18/LeetCode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohitj-18/LeetCode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohitj-18/LeetCode_problems/tree/master/0018-4sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mohitj-18/LeetCode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/mohitj-18/LeetCode_problems/tree/master/3731-find-missing-elements) |
 ## Math
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mohitj-18/LeetCode_problems/tree/master/0202-happy-number) |
 | [0400-nth-digit](https://github.com/mohitj-18/LeetCode_problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/mohitj-18/LeetCode_problems/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1492-the-kth-factor-of-n](https://github.com/mohitj-18/LeetCode_problems/tree/master/1492-the-kth-factor-of-n) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
