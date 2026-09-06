@@ -176,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/mohitj-18/LeetCode_problems/tree/master/0319-bulb-switcher) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mohitj-18/LeetCode_problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mohitj-18/LeetCode_problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
