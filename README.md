@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/mohitj-18/LeetCode_problems/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/mohitj-18/LeetCode_problems/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/mohitj-18/LeetCode_problems/tree/master/0836-rectangle-overlap) |
 | [1492-the-kth-factor-of-n](https://github.com/mohitj-18/LeetCode_problems/tree/master/1492-the-kth-factor-of-n) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mohitj-18/LeetCode_problems/tree/master/0155-min-stack) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mohitj-18/LeetCode_problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
