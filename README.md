@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0733-flood-fill](https://github.com/mohitj-18/LeetCode_problems/tree/master/0733-flood-fill) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitj-18/LeetCode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohitj-18/LeetCode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohitj-18/LeetCode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mohitj-18/LeetCode_problems/tree/master/3731-find-missing-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/mohitj-18/LeetCode_problems/tree/master/1492-the-kth-factor-of-n) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitj-18/LeetCode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mohitj-18/LeetCode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/mohitj-18/LeetCode_problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3871-count-commas-in-range-ii) |
