@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/mohitj-18/LeetCode_problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/mohitj-18/LeetCode_problems/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0537-complex-number-multiplication](https://github.com/mohitj-18/LeetCode_problems/tree/master/0537-complex-number-multiplication) |
 | [0788-rotated-digits](https://github.com/mohitj-18/LeetCode_problems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/mohitj-18/LeetCode_problems/tree/master/0836-rectangle-overlap) |
 | [1492-the-kth-factor-of-n](https://github.com/mohitj-18/LeetCode_problems/tree/master/1492-the-kth-factor-of-n) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0299-bulls-and-cows](https://github.com/mohitj-18/LeetCode_problems/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/mohitj-18/LeetCode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [0537-complex-number-multiplication](https://github.com/mohitj-18/LeetCode_problems/tree/master/0537-complex-number-multiplication) |
 | [0763-partition-labels](https://github.com/mohitj-18/LeetCode_problems/tree/master/0763-partition-labels) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohitj-18/LeetCode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mohitj-18/LeetCode_problems/tree/master/0046-permutations) |
+## Simulation
+|  |
+| ------- |
+| [0537-complex-number-multiplication](https://github.com/mohitj-18/LeetCode_problems/tree/master/0537-complex-number-multiplication) |
 <!---LeetCode Topics End-->
