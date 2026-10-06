@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mohitj-18/LeetCode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0537-complex-number-multiplication](https://github.com/mohitj-18/LeetCode_problems/tree/master/0537-complex-number-multiplication) |
 | [0763-partition-labels](https://github.com/mohitj-18/LeetCode_problems/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitj-18/LeetCode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohitj-18/LeetCode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/mohitj-18/LeetCode_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mohitj-18/LeetCode_problems/tree/master/0135-candy) |
 | [0763-partition-labels](https://github.com/mohitj-18/LeetCode_problems/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitj-18/LeetCode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mohitj-18/LeetCode_problems/tree/master/0155-min-stack) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitj-18/LeetCode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/mohitj-18/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitj-18/LeetCode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
