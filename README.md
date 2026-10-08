@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/mohitj-18/LeetCode_problems/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitj-18/LeetCode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohitj-18/LeetCode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mohitj-18/LeetCode_problems/tree/master/0155-min-stack) |
 | [0856-score-of-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitj-18/LeetCode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -261,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-score-of-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitj-18/LeetCode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
