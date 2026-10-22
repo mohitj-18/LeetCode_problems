@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohitj-18/LeetCode_problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mohitj-18/LeetCode_problems/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/mohitj-18/LeetCode_problems/tree/master/0046-permutations) |
+| [0059-spiral-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/mohitj-18/LeetCode_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mohitj-18/LeetCode_problems/tree/master/0135-candy) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mohitj-18/LeetCode_problems/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/mohitj-18/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mohitj-18/LeetCode_problems/tree/master/0733-flood-fill) |
 ## Heap (Priority Queue)
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0537-complex-number-multiplication](https://github.com/mohitj-18/LeetCode_problems/tree/master/0537-complex-number-multiplication) |
 ## Rolling Hash
 |  |
