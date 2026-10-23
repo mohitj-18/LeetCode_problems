@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/mohitj-18/LeetCode_problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/mohitj-18/LeetCode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/0022-generate-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/mohitj-18/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/mohitj-18/LeetCode_problems/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitj-18/LeetCode_problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/mohitj-18/LeetCode_problems/tree/master/0198-house-robber) |
 | [0788-rotated-digits](https://github.com/mohitj-18/LeetCode_problems/tree/master/0788-rotated-digits) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mohitj-18/LeetCode_problems/tree/master/0046-permutations) |
 ## Simulation
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitj-18/LeetCode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/1021-remove-outermost-parentheses) |
