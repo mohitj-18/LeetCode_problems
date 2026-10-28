@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/mohitj-18/LeetCode_problems/tree/master/0836-rectangle-overlap) |
 | [1492-the-kth-factor-of-n](https://github.com/mohitj-18/LeetCode_problems/tree/master/1492-the-kth-factor-of-n) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3227-vowels-game-in-a-string](https://github.com/mohitj-18/LeetCode_problems/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitj-18/LeetCode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mohitj-18/LeetCode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitj-18/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohitj-18/LeetCode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3227-vowels-game-in-a-string](https://github.com/mohitj-18/LeetCode_problems/tree/master/3227-vowels-game-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/mohitj-18/LeetCode_problems/tree/master/0319-bulb-switcher) |
+| [3227-vowels-game-in-a-string](https://github.com/mohitj-18/LeetCode_problems/tree/master/3227-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitj-18/LeetCode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/1021-remove-outermost-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/mohitj-18/LeetCode_problems/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
