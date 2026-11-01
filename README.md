@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mohitj-18/LeetCode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mohitj-18/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/mohitj-18/LeetCode_problems/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitj-18/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mohitj-18/LeetCode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mohitj-18/LeetCode_problems/tree/master/0018-4sum) |
+| [0274-h-index](https://github.com/mohitj-18/LeetCode_problems/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mohitj-18/LeetCode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/mohitj-18/LeetCode_problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
