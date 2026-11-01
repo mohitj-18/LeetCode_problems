@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mohitj-18/LeetCode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mohitj-18/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitj-18/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0733-flood-fill](https://github.com/mohitj-18/LeetCode_problems/tree/master/0733-flood-fill) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/mohitj-18/LeetCode_problems/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/mohitj-18/LeetCode_problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/mohitj-18/LeetCode_problems/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitj-18/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0537-complex-number-multiplication](https://github.com/mohitj-18/LeetCode_problems/tree/master/0537-complex-number-multiplication) |
 | [0788-rotated-digits](https://github.com/mohitj-18/LeetCode_problems/tree/master/0788-rotated-digits) |
