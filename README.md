@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitj-18/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/mohitj-18/LeetCode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mohitj-18/LeetCode_problems/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitj-18/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohitj-18/LeetCode_problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitj-18/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0400-nth-digit](https://github.com/mohitj-18/LeetCode_problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/mohitj-18/LeetCode_problems/tree/master/0441-arranging-coins) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mohitj-18/LeetCode_problems/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/mohitj-18/LeetCode_problems/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/mohitj-18/LeetCode_problems/tree/master/0733-flood-fill) |
 ## Heap (Priority Queue)
 |  |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/mohitj-18/LeetCode_problems/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/mohitj-18/LeetCode_problems/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
