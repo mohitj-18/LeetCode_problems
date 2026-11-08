@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohitj-18/LeetCode_problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mohitj-18/LeetCode_problems/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/mohitj-18/LeetCode_problems/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/mohitj-18/LeetCode_problems/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohitj-18/LeetCode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/mohitj-18/LeetCode_problems/tree/master/0134-gas-station) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mohitj-18/LeetCode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mohitj-18/LeetCode_problems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/mohitj-18/LeetCode_problems/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/mohitj-18/LeetCode_problems/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohitj-18/LeetCode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mohitj-18/LeetCode_problems/tree/master/0451-sort-characters-by-frequency) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mohitj-18/LeetCode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/mohitj-18/LeetCode_problems/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/mohitj-18/LeetCode_problems/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/mohitj-18/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/mohitj-18/LeetCode_problems/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitj-18/LeetCode_problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mohitj-18/LeetCode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitj-18/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/mohitj-18/LeetCode_problems/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/mohitj-18/LeetCode_problems/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/mohitj-18/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/mohitj-18/LeetCode_problems/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/mohitj-18/LeetCode_problems/tree/master/0299-bulls-and-cows) |
